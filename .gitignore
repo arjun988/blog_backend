@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# dotenv environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# IDE files
+.vscode/
+.idea/
+
+# AWS Credentials
+.aws/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build files
+dist/
+build/
+out/
+
+# Debugger outputs
+*.swp
+*.swo
